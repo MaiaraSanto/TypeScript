@@ -1,3 +1,3 @@
-# Atividades-JS
+# Projeto Type Script
 
-Vários exercícios feito em Java Script
+
