@@ -1,4 +1,4 @@
-# Projeto Type Script
+# Projeto em Type Script utilizando os seguintes conceitos:
 
 Object literals, 
 
