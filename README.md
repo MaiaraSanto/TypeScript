@@ -1,23 +1,23 @@
 # Projeto em Type Script utilizando os seguintes conceitos:
 
-Object literals, 
+Object literals;
 
-union type, 
+union type;
 
-type alias, 
+type alias; 
 
-literal types, 
+literal types; 
 
-interface, 
+interface;
 
-generics, 
+generics;
 
-classes, 
+classes;
 
-interfaces em classes, 
+interfaces em classes; 
 
-herança. 
+herança;
 
-IDE: Visual Studio Code.
+IDE: Visual Studio Code;
 
 
